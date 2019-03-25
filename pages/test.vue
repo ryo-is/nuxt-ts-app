@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-2.5.0
+        nuxt-2.5.0 test
       </h1>
       <h2 class="subtitle">
         My laudable Nuxt.js project
